@@ -72,7 +72,8 @@ For example, for an employee with an annual salary of $60,000:
 ```
 ## How to Unit test project - EmployeeMonthlyPaySlipTest
 
-Open the terminal or command prompt at the project root path (/EmployeeMonthlyPaySlip/EmployeeMonthlyPaySlipTest/) and run the following commands, in sequence:
-(cd to the project path)
-    - dotnet test
-    
+Open the terminal or command prompt at the project root path (/EmployeeMonthlyPaySlip/EmployeeMonthlyPaySlipTest/) and run the following command:
+(cd to the test project path)
+```
+dotnet test
+```    
