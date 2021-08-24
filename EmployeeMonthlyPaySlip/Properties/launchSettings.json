@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EmployeeMonthlyPaySlip": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Mary Song\" 60000"
+    }
+  }
+}
